@@ -31,7 +31,5 @@
             "deno.json"
         ]
     },
-    "imports": {
-        "@gnome/exec": "jsr:@gnome/exec@^0.4.1"
-    }
+    "imports": { "@gnome/exec": "jsr:@gnome/exec@^0.4.4" }
 }
